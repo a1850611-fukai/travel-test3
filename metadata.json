@@ -1,0 +1,7 @@
+{
+  "name": "ThaiJourney: Bangkok & Beyond",
+  "description": "A premium, Thai-themed travel itinerary companion featuring a smart timeline, cultural insights via Gemini AI, and interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
